@@ -1,3 +1,4 @@
 Sección 1: Introduccion a GIT
 Sección 2: Flujo de trabajo básico
-Seccion 3: Repositorios remotos
+Seccion 3: Gestion de Ramas
+Seccion 4: Repositorios remotos
