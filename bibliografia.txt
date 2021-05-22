@@ -1,1 +1,3 @@
-Referencia: Straub, B and Chacon, S. Pro Git, APRESS
+Referencia: 
+    • Straub, B and Chacon, S. Pro Git, APRESS
+    • Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
