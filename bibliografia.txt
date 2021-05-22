@@ -1,0 +1,1 @@
+Referencia: Straub, B and Chacon, S. Pro Git, APRESS
